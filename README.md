@@ -180,3 +180,7 @@ Spectrogram and MFCC feature maps are generated to visualize emotion-specific pa
 
 The combination of CNN and LSTM architectures delivers strong results in emotion classification from speech signals.
 This project demonstrates the potential for emotion-aware systems that can understand human feelings and respond empathetically.
+
+## Contact
+
+For professional opportunities and technical discussions: [ozaparthu055@gmail.com](mailto:ozaparthu055@gmail.com) · [Portfolio](https://parthoza.net) · [LinkedIn](https://www.linkedin.com/in/oza-parth)
